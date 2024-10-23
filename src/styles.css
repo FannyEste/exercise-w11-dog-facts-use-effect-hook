@@ -1,1 +1,16 @@
 /* Start Adding your CSS here */
+.App {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #4CAF50;
+  }
+  
+  p {
+    font-size: 18px;
+    color: #555;
+  }
+  
